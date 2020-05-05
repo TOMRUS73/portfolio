@@ -8,5 +8,5 @@ Currently, I put emphasis on developing and expanding knowledge about software t
 * Databases: **SQL**
 * Operating systems: **Windows**
 * Known management methodologies: **SCRUM, Kanban**
-* Test management tools: **Jira, Postman**
+* Test management tools: **Jira, Postman, HP ALM**
 * Tools supporting testing: **Chrome console**
