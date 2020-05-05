@@ -10,3 +10,11 @@ Currently, I put emphasis on developing and expanding knowledge about software t
 * Known management methodologies: **SCRUM, Kanban**
 * Test management tools: **Jira, Postman, HP ALM**
 * Tools supporting testing: **Chrome console**
+## Courses ##
+**Software Development Academy - software tester**
+* Risk-based testing
+* Test design techniques
+* Agile and Waterfall
+* Testing supported by tools
+* Test automation (Java, Selenium Webdriver)
+* Testing in BDD methodology
