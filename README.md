@@ -18,3 +18,11 @@ Currently, I put emphasis on developing and expanding knowledge about software t
 * Testing supported by tools
 * Test automation (Java, Selenium Webdriver)
 * Testing in BDD methodology
+## Blogs read
+*[and-it.pl](http://and-it.pl/wpblog/)
+*[pwicherski.gitbook.io]( https://pwicherski.gitbook.io/)
+*[remigiuszbednarczyk.pl]( https://remigiuszbednarczyk.pl/)
+*[testerka.pl]( http://testerka.pl/)
+*[testerzy.pl]( https://testerzy.pl/)
+*[testuj.pl]( https://testuj.pl/)
+
