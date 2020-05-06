@@ -26,7 +26,7 @@ Currently, I put emphasis on developing and expanding knowledge about software t
 *[testerzy.pl]( https://testerzy.pl/)
 *[testuj.pl]( https://testuj.pl/)
 ## Books
-*R.Smilgin - Zawód tester
+* R.Smilgin - Zawód tester
 ## Webinars
 * GeekON - praktyczne ćwiczenie SQL
 * Niebezpiecznik - Jak zabezpieczyć konta internetowe przed hakerami? 
@@ -34,7 +34,7 @@ Currently, I put emphasis on developing and expanding knowledge about software t
 Defect report
 * [Test of the application, which after user registration allows you to receive discount codes on selected items. When testing the registration form, an error pops up](https://drive.google.com/drive/folders/1WD3FQriCrsYyGr6EFuC_u0QxSFGSaJiz?usp=sharing)
 ## My programs
-* [C++](https://code.sololearn.com/cuiBDrdN0NSn) 
+* [Sololearn C++](https://code.sololearn.com/cuiBDrdN0NSn) 
 
 
 
