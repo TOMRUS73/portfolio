@@ -26,3 +26,7 @@ Currently, I put emphasis on developing and expanding knowledge about software t
 *[testerzy.pl]( https://testerzy.pl/)
 *[testuj.pl]( https://testuj.pl/)
 
+## Books
+*R.Smilgin - Zawód tester
+
+
