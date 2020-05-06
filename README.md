@@ -25,8 +25,11 @@ Currently, I put emphasis on developing and expanding knowledge about software t
 *[testerka.pl]( http://testerka.pl/)
 *[testerzy.pl]( https://testerzy.pl/)
 *[testuj.pl]( https://testuj.pl/)
-
 ## Books
 *R.Smilgin - Zawód tester
+## Webinars
+*GeekON - praktyczne ćwiczenie SQL
+*Niebezpiecznik - Jak zabezpieczyć konta internetowe przed hakerami? 
+
 
 
