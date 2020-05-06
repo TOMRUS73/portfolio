@@ -28,8 +28,8 @@ Currently, I put emphasis on developing and expanding knowledge about software t
 ## Books
 *R.Smilgin - Zawód tester
 ## Webinars
-*GeekON - praktyczne ćwiczenie SQL
-*Niebezpiecznik - Jak zabezpieczyć konta internetowe przed hakerami? 
+* GeekON - praktyczne ćwiczenie SQL
+* Niebezpiecznik - Jak zabezpieczyć konta internetowe przed hakerami? 
 
 
 
