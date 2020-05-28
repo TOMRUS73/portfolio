@@ -31,6 +31,7 @@ Currently, I put emphasis on developing and expanding knowledge about software t
 * GeekON - praktyczne ćwiczenie SQL
 * Niebezpiecznik - Jak zabezpieczyć konta internetowe przed hakerami? 
 * Testuj.pl - PANDA#4 (Performance and Automation )
+* Testuj.pl - Na żywo z bazy SQL 
 ## My bug reports
 Defect report
 * [Test of the application, which after user registration allows you to receive discount codes on selected items. When testing the registration form, an error pops up](https://drive.google.com/drive/folders/1WD3FQriCrsYyGr6EFuC_u0QxSFGSaJiz?usp=sharing)
