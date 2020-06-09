@@ -37,6 +37,7 @@ Defect report
 * [Test of the application, which after user registration allows you to receive discount codes on selected items. When testing the registration form, an error pops up](https://drive.google.com/drive/folders/1WD3FQriCrsYyGr6EFuC_u0QxSFGSaJiz?usp=sharing)
 ## My programs
 * [Sololearn C++](https://code.sololearn.com/cuiBDrdN0NSn) 
+* [Sololearn HTML About Me](https://code.sololearn.com/WKODaro1r1uR)
 
 
 
