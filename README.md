@@ -38,6 +38,13 @@ Defect report
 ## My programs
 * [Sololearn C++](https://code.sololearn.com/cuiBDrdN0NSn) 
 * [Sololearn HTML About Me](https://code.sololearn.com/WKODaro1r1uR)
+## My projects
+Individual project - testing site [dragonist.pl](https://dragonist.pl/)
+* [Report](https://drive.google.com/file/d/1bfw8WkeNFoNjR2wcP8TAOq555eCKDk9M/view?usp=sharing)
+* [Test cases](https://drive.google.com/file/d/1c1opsLe4XBje_9dN04vMitH5g2EmexO_/view?usp=sharing)
+* [Test conditions](https://drive.google.com/file/d/1LyHeSVxvPqFiUr_IKRLPluuAEiPuucjG/view?usp=sharing)
+* [Automated Postman tests](https://drive.google.com/file/d/12oalo_2QsyVo_0otIHpHBGI_wCdk4Moa/view?usp=sharing)
+
 
 
 
